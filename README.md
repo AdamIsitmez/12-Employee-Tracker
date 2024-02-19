@@ -27,7 +27,7 @@
 
   A video walkthrough can be found at this link:
 
-  https://drive.google.com/file/d/1l1mb73OKwM0BkfWX_kmINMoEnIiQ7M9K/view?usp=sharing
+  [https://drive.google.com/file/d/1l1mb73OKwM0BkfWX_kmINMoEnIiQ7M9K/view?usp=sharing](https://drive.google.com/file/d/1LN68IB9F7kNTqhysPdMA44U7WDeXtKI3/view)
 
   ## License
   This project is licensed under the MIT license.  
